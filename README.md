@@ -39,4 +39,4 @@ Run the Jupyter notebook or Python scripts to execute the analysis steps.
 This README serves as a guide for users to understand the contents of the repository and how to utilize the provided code and data for cryptocurrency clustering analysis. Users can refer to this document for instructions on data preprocessing, dimensionality reduction, clustering, and interpretation of results.
 
 ## Contributors
-Dazed and Confused aka Rpbert Rodriguez
+Dazed and Confused aka Robert Rodriguez
